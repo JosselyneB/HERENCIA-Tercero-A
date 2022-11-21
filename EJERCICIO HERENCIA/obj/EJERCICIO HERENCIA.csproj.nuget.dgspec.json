@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\UNIVERSIDAD\\4TO SEMESTRE P2 - 2022 -2 POR IGUALAR PRESENCIAL\\3A - PROGRAMACION\\TAREAS\\TAREAS REALIZADAS\\EJERCICIO HERENCIA\\EJERCICIO HERENCIA.csproj": {}
+  },
+  "projects": {
+    "C:\\UNIVERSIDAD\\4TO SEMESTRE P2 - 2022 -2 POR IGUALAR PRESENCIAL\\3A - PROGRAMACION\\TAREAS\\TAREAS REALIZADAS\\EJERCICIO HERENCIA\\EJERCICIO HERENCIA.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\UNIVERSIDAD\\4TO SEMESTRE P2 - 2022 -2 POR IGUALAR PRESENCIAL\\3A - PROGRAMACION\\TAREAS\\TAREAS REALIZADAS\\EJERCICIO HERENCIA\\EJERCICIO HERENCIA.csproj",
+        "projectName": "EJERCICIO HERENCIA",
+        "projectPath": "C:\\UNIVERSIDAD\\4TO SEMESTRE P2 - 2022 -2 POR IGUALAR PRESENCIAL\\3A - PROGRAMACION\\TAREAS\\TAREAS REALIZADAS\\EJERCICIO HERENCIA\\EJERCICIO HERENCIA.csproj",
+        "packagesPath": "C:\\Users\\Josselyne\\.nuget\\packages\\",
+        "outputPath": "C:\\UNIVERSIDAD\\4TO SEMESTRE P2 - 2022 -2 POR IGUALAR PRESENCIAL\\3A - PROGRAMACION\\TAREAS\\TAREAS REALIZADAS\\EJERCICIO HERENCIA\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Josselyne\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
